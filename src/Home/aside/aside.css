@@ -1,0 +1,24 @@
+.aside {
+  grid-area: aside;
+  background-color: var(--neutral-color-very-dark-blue);
+  padding: 20px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.aside h1 {
+  color: var(--primary-color-soft-orange);
+}
+
+.aside article {
+  border-bottom: var(--neutral-color-off-white) 1px solid;
+}
+
+.aside article header h2 {
+  font-weight: 800;
+  color: var(--neutral-color-off-white);
+}
+
+.aside article p {
+  font-weight: 400;
+}

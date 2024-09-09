@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+:root {
+  font-family: Inter, sans-serif;
+  --font-size: 15px;
+  max-width: 1280px;
+  margin: 0 auto;
+  color-scheme: light dark;
+  --primary-color-soft-orange: hsl(35, 77%, 62%);
+  --primary-color-soft-red: hsl(5, 85%, 63%);
+  --textcolor: hsl(240, 100%, 5%);
+  --neutral-color-off-white: hsl(36, 100%, 99%);
+  --neutral-color-grayish-blue: hsl(233, 8%, 79%);
+  --neutral-color-dark-grayish-blue: hsl(236, 13%, 42%);
+  --neutral-color-very-dark-blue: hsl(240, 100%, 5%);
+}
